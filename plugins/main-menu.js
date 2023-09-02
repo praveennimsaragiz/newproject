@@ -59,7 +59,7 @@ let str = `
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Platform:* Linux 
 ┃ 📣  *Prefix:* ${usedPrefix} 
-┃ 🕓  *Uptime:* ${uptime}
+┃ ⌚  *Uptime:* ${uptime}
 ┃ 💌  *Database:* ${rtotalreg} of ${totaluser} 
 ┃ 📚  *Total Users:* ${totaluser} 
 ┗━━━━━━━━━━━━━┛
