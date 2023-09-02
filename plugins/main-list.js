@@ -32,9 +32,9 @@ break;
           𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
    ╰───•••──┄ °❀     
    ┏━━━ʕ•㉨•ʔ━━━┓
-   ⎪⌲👑 _${usedPrefix}gita_
-   ⎪⌲👑 _${usedPrefix}ping_
-   ⎪⌲👑 _${usedPrefix}uptime_
+   ⎪⌲😎 _${usedPrefix}gita_
+   ⎪⌲😎_${usedPrefix}ping_
+   ⎪⌲😎 _${usedPrefix}uptime_
    ⎪⌲👑 _${usedPrefix}bot_
    ⎪⌲👑 _${usedPrefix}owner_
    ⎪⌲👑 _${usedPrefix}script_
@@ -52,7 +52,7 @@ break;
           𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
      ╰───•••──┄ °❀     
      ┏━━━ʕ•㉨•ʔ━━━┓
-     ⎪⌲👑 _${usedPrefix}banchat_
+     ⎪⌲😎 _${usedPrefix}banchat_
      ⎪⌲👑 _${usedPrefix}unbanchat_
      ⎪⌲👑 _${usedPrefix}banuser_
      ⎪⌲👑 _${usedPrefix}unbanuser_
@@ -71,7 +71,7 @@ break;
           𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
     ╰───•••──┄ °❀     
     ┏━━━ʕ•㉨•ʔ━━━┓
-    ⎪⌲💎_${usedPrefix}kick *<@tag>*_
+    ⎪⌲😎_${usedPrefix}kick *<@tag>*_
     ⎪⌲💎_${usedPrefix}promote *<@tag>*_
     ⎪⌲💎 _${usedPrefix}demote *<@tag>*_
     ⎪⌲💎 _${usedPrefix}infogroup_
