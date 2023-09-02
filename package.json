@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "newprojec",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/praveennimsaragiz/newproject",
     "author": {
-        "name": "GURU"
+        "name": "newproject"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/praveennimsaragiz/newproject.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/praveennimsaragiz/newproject/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
